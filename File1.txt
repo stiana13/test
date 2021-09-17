@@ -2,3 +2,6 @@ Hey,learning Git here
 
 this is the first change
 adding line from git bash
+
+new line here 
+
